@@ -646,7 +646,6 @@ def iframe(src,title,other_attr={}):
     iframe tag
 
     args:
-    args:
         src <str> : source
         title <str> : title
         other_attr <dict> : other attributes
